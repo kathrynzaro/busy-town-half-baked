@@ -1,3 +1,4 @@
+
 body {
   background-image: url("./city.png");
   background-size: cover; background-repeat: no-repeat;
@@ -61,7 +62,7 @@ body {
   margin: 40px;
   width: 80%;
   border-radius: 50px;
-  background-color: rgba(255, 170, 51, .7) 
+  background-color: rgba(255, 170, 51, .7);
 }
 
 .fight .monster { 
